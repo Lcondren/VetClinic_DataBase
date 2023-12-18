@@ -1,7 +1,7 @@
  # Vet Clinic Management Database
 
  ## About the Project
- A database created to manage for a vet clinic and to replace the paper system currently used by the practice.
+ A database created to manage for a vet clinic so it cuts out the paper system to be used by the practice.
  For this database project I used XAMPP and phpMyAdmin to locally-host the database
 
  ## Features of the project
